@@ -10,6 +10,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ListaTarefas.Application\ListaTarefas.Application.csproj" />
+    <ProjectReference Include="..\ListaTarefas.Core\ListaTarefas.Core.csproj" />
+    <ProjectReference Include="..\ListaTarefas.Infra\ListaTarefas.Infra.csproj" />
   </ItemGroup>
 
 </Project>
